@@ -48,8 +48,7 @@ class _DicePageState extends State<DicePage> {
               },
             ),
           ),
-          //Get students to create the second die as a challenge
-          Expanded(
+           Expanded(
             child: TextButton(
               child: Image.asset(
                 'images/dice$rightDiceNumber.png',
